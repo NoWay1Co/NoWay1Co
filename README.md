@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NoWay1Co 
-- 👀 Mainly interested in GameDev 
+- 👀 Mainly interested in GameDev, but in spare time I i'm experimenting with DL
 - 👨‍💻 Languages C++/C#/Pyhton
